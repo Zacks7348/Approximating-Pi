@@ -10,7 +10,7 @@
     - N = total number of points
     - c = number of points inside the circle 
  
-Now lets look at two equal ratios  
+6. Now lets look at two equal ratios  
 (Ac/As) = (c/N)  
 We know the following:  
 Ac = pi x r^2  
