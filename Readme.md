@@ -13,7 +13,7 @@
 6. Now lets look at two equal ratios  
 (Ac/As) = (c/N)  
 We know the following:  
-Ac = pi x r^2  
+Ac = pi * r^2  
 As = (r+1)^2  
 Since we know r=1, we can subsitute these formulas into the first ratio and plug 1 in for r and get the resulting equality  
 pi/4 = c/N  
