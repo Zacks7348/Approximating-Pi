@@ -8,15 +8,16 @@
     - Ac = Area of circle
     - As = Area of square
     - N = total number of points
-    - c = number of points inside the circle  
-Now lets look at two equal ratios
-(Ac/As) = (c/N)
-We know the following:
-Ac = pi x r^2
-As = (r+1)^2
-Since we know r=1, we can subsitute these formulas into the first ratio and plug 1 in for r and get the resulting equality
-pi/4 = c/N
-We can then solve for pi
-pi = 4c/N
+    - c = number of points inside the circle 
+ 
+Now lets look at two equal ratios  
+(Ac/As) = (c/N)  
+We know the following:  
+Ac = pi x r^2  
+As = (r+1)^2  
+Since we know r=1, we can subsitute these formulas into the first ratio and plug 1 in for r and get the resulting equality  
+pi/4 = c/N  
+We can then solve for pi  
+pi = 4c/N  
 
 as N approaches infinity we should see our approximated value of pi approach the true value of pi
