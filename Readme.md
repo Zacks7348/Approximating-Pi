@@ -8,7 +8,7 @@
     - Ac = Area of circle
     - As = Area of square
     - N = total number of points
-    - c = number of points inside the circle
+    - c = number of points inside the circle  
 Now lets look at two equal ratios
 (Ac/As) = (c/N)
 We know the following:
